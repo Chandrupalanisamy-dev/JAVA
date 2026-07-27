@@ -1,0 +1,4 @@
+Name: Chax
+Tamil Mark: 91
+English Mark: 90
+Maths Mark: 80
