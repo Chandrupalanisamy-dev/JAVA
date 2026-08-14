@@ -9,6 +9,7 @@ public class ElementFrequencyAnalysis{
         int N = sc.nextInt();
         System.out.print("Array: ");
         
+        
         HashMap<Integer, Integer> map = new HashMap<>();
 
         for (int i = 0; i < N; i++) {
@@ -18,7 +19,7 @@ public class ElementFrequencyAnalysis{
         }
 
         int repeated = 0;
-        int nonRepeated = 0;
+        int nonRepeated = 0; 
 
         for (int count : map.values()) {
 
